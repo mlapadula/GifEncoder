@@ -7,6 +7,7 @@ Given a sequence of bitmaps, encode them as an animated Gif. Based on several op
 
 # To Use
 * Import the files `GifEncoder.java`, `LzwEncoder.java`, and `NeuQuant.java` into your project
+* Note that Android's built-in Gallery app can't play animated gifs. You'll need a third-party app to view the gifs you generate. (Or write one yourself :) )
 
 # Example
 
